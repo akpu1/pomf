@@ -17,6 +17,7 @@
 	"generateSitemap": false,
 	"max_upload_size": 128,
 	"production": false,
+	"fileExpiry": true,
 	"siteName": "Pantsu",
 	"siteUrl": "https://pantsu.cat/",
 	"abuseContact": "abuse@pantsu.cat",
